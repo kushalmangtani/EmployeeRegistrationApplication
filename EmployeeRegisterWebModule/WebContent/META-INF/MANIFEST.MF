@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Dependencies: org.apache.commons.logging export,org.slf4j export,org.s
+ lf4j.jcl-over-slf4j export,org.apache.log4j export,org.joda.time expo
+ rt
+
